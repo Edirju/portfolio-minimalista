@@ -1,18 +1,18 @@
 {
   "basics": {
-    "name": "Miguel Ángel Durán",
+    "name": "Edinson Rivera Jurado",
     "label": "Full Stack Developer con más de 15 años de experiencia & Creador de Contenido de Programación",
     "image": "/me.webp",
-    "email": "miduga@gmail.com",
-    "phone": "+34 688888888",
+    "email": "edirju@gmail.com",
+    "phone": "+57 3128288647",
     "url": "https://midu.dev",
     "summary": "+15 años de experiencia como Desarrollador Web. Actualmente soy Creador de Contenido y Divulgador sobre Programación. Vivo en Barcelona, España. He trabajado en diferentes entornos: desde acelerar el desarrollador de start-ups hasta liderando equipos de empresas multinacionales.",
     "location": {
       "address": "",
       "postalCode": "08820",
-      "city": "el Prat de Llobregat",
-      "countryCode": "ES",
-      "region": "España"
+      "city": "Santiago de Cali",
+      "countryCode": "CO",
+      "region": "Colombia"
     },
     "profiles": [
       {
